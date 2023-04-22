@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+
+<title>Canal de noticias</title>
+<description>El canal de noticias de mi web</description>
+<language>es</language>
+<pubDate>Thu, 20 Apr 2023 11:04:06 GMT</pubDate>
+<managingEditor>lucia.pcordero8@hotmail.com (Lucía Peña)</managingEditor>
+<link>file:///C:/Users/Lucy/Desktop/DAW/Lenguajes%20de%20marcas%20y%20sistemas%20de%20gesti%C3%B3n%20de%20informaci%C3%B3n%20LM/Pena_Cordero_Lucia_LMSGI_Tarea03/Pena_Cordero_Lucia_LM03_Tarea.html</link>
+
+<category>Paquetería</category>
+<category>Envíos</category>
+<category>Transporte urgente</category>
+
+<item>
+
+<title>Adiós al chollo de Aliexpress: así afectará la llegada del IVA a la paquetería internacional</title>
+<link>https://logistica.cdecomunicacion.es/noticias/sectoriales/45956/aliexpress-llegada-iva-paqueteria-internacional</link>
+<description>El cambio es inminente. En poco menos de 48 horas, el comercio online, tal y como lo conocemos, cambiará sus reglas, dejando huella sobre el flujo de mercancías internacional y, en última instancia, sobre los consumidores de este canal de compras.
+
+A partir del 1 de julio, la Unión Europea eliminará el umbral de 22 euros para los aranceles sobre los paquetes importados de orígenes no comunitarios, que luego requerirán el despacho de aduana, el pago del IVA y, según los umbrales nacionales, los derechos de aduana.
+
+El fin de la exención de aranceles sobre las importaciones por un valor inferior a dicha cifra afectará principalmente, y según los expertos, a los paquetes procedentes de China. Sin embargo, advierten, los gigantes del ecommerce ya han tomado medidas para mitigar ese impacto.</description>
+<guid isPermaLink="false">https://logistica.cdecomunicacion.es/noticias/sectoriales/45956/aliexpress-llegada-iva-paqueteria-internacional</guid>
+<enclosure url="https://logistica.cdecomunicacion.es/wp-content/webp-express/webp-images/uploads/2022/12/1624960313-paquetera-iva-aduanas-1-1140x641.jpg.webp" 
+    length="46430" type="image/webp"/>
+<pubDate>Thu, 20 Apr 2023 11:04:06 GMT</pubDate>
+
+</item>
+
+<item>
+
+<title>Denuncian atraso de siete meses en la distribución de paquetería internacional en Cuba</title>
+<link>https://www.cibercuba.com/noticias/2022-01-17-u1-e199370-s27061-denuncian-atraso-siete-meses-distribucion-paqueteria</link>
+<description>Correos de Cuba es la organización empresarial que recibe y tramita el mayor por ciento de envíos internacionales.</description>
+<guid isPermaLink="false">https://www.cibercuba.com/noticias/2022-01-17-u1-e199370-s27061-denuncian-atraso-siete-meses-distribucion-paqueteria</guid>
+<enclosure url="https://cdn0.celebritax.com/sites/default/files/styles/watermark_100/public/1642440970-denuncian-atraso-siete-meses-distribucion-paqueteria-internacional-cuba.jpg" length="59262" type="image/vnd.sealedmedia.softseal.jpg"/>
+<pubDate>Thu, 20 Apr 2023 11:04:06 GMT</pubDate>
+
+</item>
+
+</channel>
+</rss>
